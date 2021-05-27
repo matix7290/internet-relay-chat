@@ -1,0 +1,35 @@
+#chat {
+    display: none;
+}
+
+#messages {
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    overflow-x: none;
+    overflow-y: scroll;
+}
+
+span {
+    display: inline-block;
+    margin-top: 7px;
+}
+
+.first {
+    margin-left: 7px;
+}
+
+.alert {
+    color: gray;
+    font-style: italic;
+    margin-left: 7px;
+}
+
+#newMessage {
+    width: 100%;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
