@@ -70,7 +70,7 @@ The "internet-relay-chat" repository houses a Node.js project that facilitates a
 
 Please ensure you have the following dependencies installed on your system:
 
-`- NodeJS v17.0.0`
+`- NodeJS min. v17.0.0`
 
 
 ### 🔧 Installation
