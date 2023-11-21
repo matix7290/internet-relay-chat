@@ -19,12 +19,11 @@
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [📂 repository Structure](#-repository-structure)
-- [📂 repository Structure](#-repository-structure)
+- [📂 Repository Structure](#-repository-structure)
+- [⚙️ Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running](#-running)
-- [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -140,8 +139,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ## 📄 License
 
 
-This project is protected under the [MIT License](https://choosealicense.com/licenses/mit) License. For more details, refer to the [LICENSE](:/Users/mateuszolszewski/Library/Python/3.11/bin
-) file.\
+This project is protected under the [MIT License](https://choosealicense.com/licenses/mit) License. For more details, refer to the [LICENSE](https://github.com/matix7290/internet-relay-chat/blob/master/LICENSE) file.\
 
 [**Return**](#Top)
 
